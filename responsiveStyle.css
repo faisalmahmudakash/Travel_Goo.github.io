@@ -1,0 +1,1352 @@
+@media all and (max-width: 1199px) {
+
+    /*section 2*/
+    .sCard {
+        margin-left: 15px;
+    }
+
+    /*section 3*/
+    .bestService {
+        margin-left: -85px;
+        margin-right: -85px;
+    }
+
+    /*section 4*/
+    .worldImaage img {
+        width: 100%;
+    }
+
+    .destinationCard {
+        margin-left: -75px;
+        margin-right: 50px;
+    }
+
+    .destinationCard .card-img img {
+        height: 168px;
+    }
+
+    .distination_card_text_center .card-title span {
+        font-size: 13px;
+    }
+
+    .distination_card_text_center .card-text span {
+        font-size: 13px;
+    }
+
+    .distination_card_text_center {
+        padding: 12px 0px 12px 0px;
+    }
+
+    /*section 5*/
+    .packageCard {
+        margin-left: 0px;
+    }
+
+    .section5 h3 {
+        font-size: 36px;
+    }
+
+    .buttonGroupHeader .custom-button {
+        width: 116%;
+    }
+
+    .packageCard {
+        margin-right: -9px;
+        margin-left: 14px;
+        width: 235px;
+        height: 360px;
+    }
+
+    .packageCard .cart-text {
+        font-size: 10px;
+    }
+
+    .packageIndonesia_h5 p {
+        margin-top: -4px;
+        font-size: 12px;
+    }
+
+    .cardSize .headerImg {
+        height: 226px;
+    }
+
+    .packageButton .packageButton_topMargin {
+        margin: 0 auto;
+    }
+
+    /*section 6*/
+
+
+    /*section 7*/
+    .carousel_info {
+        width: 485px;
+        height: 217px;
+        margin-left: 87px;
+        margin-top: -10px;
+        margin-bottom: 8px;
+    }
+
+    .carousel_img {
+        width: 144px;
+        height: 144px;
+    }
+
+    /*section 8*/
+    .bg_image {
+        width: 105%;
+    }
+
+    .subscrip_background {
+        margin-left: -50px;
+    }
+}
+
+@media all and (max-width: 1128px) {
+
+    /*section 3*/
+    .bestService {
+        margin-left: -66px;
+        margin-right: -68px;
+    }
+}
+
+@media all and (max-width: 1024px) {
+
+    /*section 2*/
+    .serviceCard {
+        margin: 0px 45px 0px 0px;
+        width: 232px;
+        height: 177px;
+    }
+
+    .sCard {
+        margin-left: 46px;
+    }
+
+    /*section 3*/
+    .bestService {
+        margin-left: -14px;
+        margin-right: -17px;
+    }
+
+    .bestService {
+        width: 240px;
+        height: 250px;
+    }
+
+    /*section 4*/
+    .locationObject {
+        margin: 90px 0px 0px -91px
+    }
+
+    .section4Heading {
+        font-size: 36;
+    }
+
+    /*section 5*/
+    .packageCard {
+        margin-right: -9px;
+        margin-left: 14px;
+    }
+
+    /*section 6*/
+    .tripToRome-card {
+        margin-left: 216px;
+    }
+
+    /*section 8*/
+    .subscrip_background .bg_image {
+        margin-left: 12px;
+        width: 982px;
+    }
+
+    .footerTopPadding {
+        padding-top: 130px;
+    }
+
+    .infoDiv {
+        margin-left: -13px;
+    }
+}
+
+@media all and (max-width: 768px) {
+
+    /*section 1*/
+    .landingContant h2 {
+        font-size: 57px;
+    }
+
+    .landingContant p {
+        font-size: 14px;
+    }
+
+    .landingContant h2 {
+        height: 121px;
+    }
+
+    /*section 2*/
+    .serviceCard {
+        margin-left: 16px;
+        margin-right: 16px;
+        width: 207px;
+    }
+
+    .serviceCard h5 {
+        font-size: 16px;
+    }
+
+    .serviceCard p {
+        font-size: 12px;
+    }
+
+    /*section 3*/
+    .serviceMargin {
+        margin-top: 26px;
+        margin-bottom: 35px;
+    }
+
+    .bottomPadding {
+        margin-top: -60px;
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+
+    .bestService {
+        margin-top: 20px;
+    }
+
+    .section3Heading h3 {
+        padding-top: 40px;
+        font-size: 36px;
+    }
+
+    .section3Heading p {
+        font-size: 12px;
+    }
+
+    .bestService {
+        margin-top: -2px;
+        width: 167px;
+        height: 213px;
+        margin-bottom: -28px;
+    }
+
+    /*section 4*/
+    .section4Heading {
+        margin-bottom: 28px;
+        margin-top: 36px;
+    }
+
+    .worldImaage {
+        margin: 0 auto;
+        width: 300px;
+        height: 285px;
+    }
+
+    .section4Card {
+        margin-left: -70px;
+    }
+
+    .locationObject {
+        margin: 217px 0px 0px -204px;
+    }
+
+    .section4Heading {
+        margin-bottom: 28px;
+    }
+
+    .sec4Card_Responsiv {
+        height: 20px;
+    }
+
+    .destinationCard .card-img img {
+        height: 112px;
+        width: 118px;
+    }
+
+    /*section 5*/
+    .buttonGroupHeader button {
+        width: 100%;
+    }
+
+    .packageButton_topMargin {
+        margin-left: 134px;
+        margin-top: 20px;
+    }
+
+    /*section 6*/
+    .book_trip h3 {
+        font-size: 36px;
+    }
+
+    .book_trip_option .p1 {
+        font-size: 14px;
+        line-height: 24.5%;
+        margin-top: 12px;
+    }
+
+    .book_trip_option .p2 {
+        font-size: 12px;
+    }
+
+    .tripToGreece_backgroundImg {
+        margin-top: -24px;
+        width: 220px;
+        height: 272px;
+        margin-left: 83px;
+    }
+
+    .tripToGreece-card {
+        width: 300px;
+        height: 365px;
+    }
+
+    .tripToGreece-card .p1 {
+        font-size: 16px;
+    }
+
+    .tripToGreece-card .p2 {
+        font-size: 14px;
+    }
+
+    .cardFooter p {
+        font-size: 14px;
+    }
+
+    .cardFooter img {
+        font-size: 14px;
+    }
+
+    .tripToGreece-card .heartImg {
+        margin-left: 119px;
+    }
+
+    .tripToRome-card {
+        margin-left: 197px;
+        width: 163px;
+        height: 95px;
+        margin-top: -159px;
+    }
+
+    .tripToRome-card img {
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        margin-right: 17px;
+    }
+
+    .tripToRome-card .p1 {
+        font-size: 12px;
+    }
+
+    .tripToRome-card .p2 {
+        font-size: 12px;
+        margin-bottom: -5px;
+    }
+
+    .tripToRome-card .p3 {
+        font-size: 12px;
+        margin-top: 10px;
+    }
+
+    .tripToRome-card .p3 span {
+        font-size: 11px;
+    }
+
+
+    /*section 7*/
+    .section7 h3 {
+        font-size: 36px;
+    }
+
+    .carousel_info {
+        width: 450px;
+        height: 129px;
+        margin-left: 18px;
+        margin-top: -10px;
+        margin-bottom: 0px;
+    }
+
+    .carousel_info h5 {
+        font-size: 17px;
+    }
+
+    .carousel_info p {
+        margin-top: -5px;
+        font-size: 16px;
+        margin-bottom: -13px;
+    }
+
+    .carousel_img {
+        width: 108px;
+        height: 110px;
+        margin-top: -58px;
+    }
+
+    /*section 8*/
+    .bg_image {
+        width: 0px;
+    }
+
+    .subscrip_background .bg_image {
+        margin-left: 23px;
+        width: 759px;
+        height: 279px;
+    }
+
+    .subscrip_background .bg_image p {
+        padding-top: 40px;
+        font-size: 24px;
+        line-height: 1.4;
+    }
+
+    /*footer section*/
+    .firstDiv img {
+        width: 80px;
+        height: 62px;
+    }
+
+    .footerSection .firstDiv p {
+        font-size: 10px;
+    }
+
+    .footerSection .infoDiv p {
+        font-size: 15px;
+    }
+
+    .footerSection .infoDiv a {
+        font-size: 13px;
+    }
+
+    .socialMediaDiv .socialMediaDivImg img {
+        width: 65px;
+    }
+
+    .socialMediaDiv p {
+        font-size: 16px;
+    }
+
+    .socialMediaDiv button img {
+        width: 108px;
+    }
+}
+
+@media all and (max-width: 425px) {
+
+    /*section 1*/
+    .landingContant .discoverBotton {
+        padding: 8px 24px 8px 25px;
+    }
+
+    .landingContant h2 {
+        font-size: 44px;
+    }
+
+    .landingContant p {
+        font-size: 11px;
+    }
+
+    .section1 .navbar-brand img {
+        margin-left: -87px;
+    }
+
+    .section1 .navSection {
+        margin-right: 46px;
+    }
+
+    .landingContant h2 {
+        height: 85px;
+    }
+
+    /*section 2*/
+    .serviceMargin h3 {
+        font-size: 38px;
+    }
+
+    .serviceCard {
+        margin-left: 16px;
+        margin-right: 16px;
+        width: 298px;
+        margin-top: 30px;
+    }
+
+    /*section 3*/
+    .section3Heading h3 {
+        font-size: 33px;
+    }
+
+    .bestService {
+        margin-top: -16px;
+        width: 167px;
+        height: 221px;
+        margin-bottom: 40px;
+        margin-left: 2px;
+        margin-right: 2px;
+    }
+
+    .section3 .bottomPadding {
+        padding-bottom: 20px;
+    }
+
+    /*section 4*/
+    .section4Heading {
+        font-size: 28px;
+    }
+
+    .section4Card {
+        margin-left: 25px;
+        margin-right: 25px;
+    }
+
+    .sec4Card_Responsiv {
+        flex: 1 1 100%;
+    }
+
+    .destinationCard .card-img img {
+        height: auto;
+        width: 98px;
+    }
+
+    .section4Card {
+        width: 90%;
+        height: 86px;
+    }
+
+    .distination_card_text_center {
+        padding: 0px 0px 0px 0px;
+    }
+
+    .sec4Card_Responsiv {
+        height: 0px;
+    }
+
+    .ctl {
+        margin: 27px 83px 13px 0px;
+    }
+
+    .ctex {
+        margin: -52px -83px 0px 0px;
+    }
+
+    .cbtn {
+        margin: -44px 0px 0px 125px;
+    }
+
+
+    /*section 5*/
+    .section5 h3 {
+        margin-bottom: -23px;
+    }
+
+    .section5 h3 {
+        font-size: 26px;
+    }
+
+    .buttonGroupHeader .custom-button {
+        width: 100%;
+    }
+
+    .cardSize .headerImg {
+        height: 290px;
+    }
+
+    .packageCard {
+        width: 330px;
+        height: 455px;
+    }
+
+    .packageIndonesia_P {
+        font-size: 14px;
+    }
+
+    .packageCard .cart-text {
+        font-size: 15px;
+    }
+
+    .packageIndonesia_h5 p {
+        font-size: 15px;
+    }
+
+    .packageButton .discoverBotton {
+        padding: 8px 24px 8px 25px;
+    }
+
+    /*section 6*/
+    .book_trip_option {
+        margin-top: 5px;
+    }
+
+    .book_trip h3 {
+        font-size: 24px;
+    }
+
+    .book_trip p {
+        font-size: 17px;
+    }
+
+    .bookTrip-margin {
+        margin-top: 38px;
+    }
+
+    .bookTripResLeft {
+        padding-left: 37px;
+    }
+
+    .tripToGreece-card {
+        margin-left: 28px;
+    }
+
+    .tripToRome-card {
+        margin-left: 225px;
+    }
+
+    .tripToGreece_backgroundImg {
+        margin-top: 26px;
+        width: 220px;
+        height: 261px;
+        margin-left: 83px;
+    }
+
+    /*section 7*/
+    .carousel_info {
+        width: 432px;
+        height: 207px;
+        margin-left: 15px;
+        margin-top: 12px;
+        margin-bottom: 2px;
+    }
+
+    .carousel_info .carousel_info {
+        font-size: 12px;
+    }
+
+    .section7 h3 {
+        font-size: 26px;
+    }
+
+    /*section 8*/
+    .subscrip_background .bg_image {
+        margin-left: 23px;
+        width: 439px;
+        height: 182px;
+        margin-top: 30px;
+    }
+
+    .subscrip_background .bg_image p {
+        padding-top: 40px;
+        font-size: 15px;
+        line-height: 1.4;
+    }
+
+    .email_section {
+        width: 328px;
+        height: 24px;
+    }
+
+    .discoverBotton {
+        padding: 0px 24px 0px 25px;
+    }
+
+    .subscrip_background .bg_image p {
+        margin-bottom: 30px;
+    }
+
+    /*footer section*/
+    .firstDiv {
+        text-align: center;
+    }
+
+    .footerTopPadding {
+        padding-top: 11px;
+    }
+
+    .footerSection .firstDiv p {
+        font-size: 11px;
+    }
+
+    .infoDiv {
+        margin-left: 33px;
+        margin-top: 22px;
+        width: 102px;
+    }
+
+    .socialMediaDivImg {
+        justify-content: center;
+    }
+
+    .socialMediaDiv p {
+        text-align: center;
+    }
+
+    .appStorButton {
+        justify-content: center;
+    }
+
+    .copyRight p {
+        margin-top: 38px;
+    }
+}
+
+@media all and (max-width: 375px) {
+
+    /*section 1*/
+    .landingContant h2 {
+        height: 70px;
+        font-size: 38px;
+    }
+
+    .landingContant p {
+        font-size: 9px;
+    }
+
+    .landingContant .discoverBotton {
+        margin: 0 auto;
+    }
+
+    /*section 3*/
+    .section3 {
+        margin-top: -55px;
+    }
+
+    .section3Heading h3 {
+        font-size: 30px;
+    }
+
+    .section3Heading p {
+        font-size: 11px;
+    }
+
+    .bestService {
+        width: 151px;
+        height: 155px;
+        margin-bottom: 22px;
+        margin-left: -2px;
+        margin-right: 2px;
+    }
+
+    .bestService img {
+        width: 23px;
+        height: 25.259px;
+        padding-top: -82px;
+    }
+
+    .bestService .card-body h2 {
+        font-size: 22px;
+    }
+
+    .bestService .card-body p {
+        font-size: 14px;
+    }
+
+    .bestService .card-img {
+        margin-top: 20px !important;
+    }
+
+    /*section 4*/
+    .ctl {
+        margin: 27px 83px 13px 61px;
+    }
+
+    .ctex {
+        margin: -52px -83px 0px 41px;
+        line-height: 1.0;
+    }
+
+    /*section 5*/
+    .buttonGroupHeader .custom-button {
+        width: 97%;
+    }
+
+    .packageCard {
+        margin-left: -12px;
+    }
+
+    /*section 6*/
+    .book_trip h3 {
+        font-size: 21px;
+        margin-top: -23px;
+    }
+
+    .book_trip p {
+        font-size: 13px;
+    }
+
+    .bookTripInfo {
+        margin-left: -10px;
+    }
+
+    .tripToGreece-card {
+        width: 258px;
+        height: 299px;
+    }
+
+    .col-md-6.m-auto.bookTripResRight {
+        padding-top: 45px;
+    }
+
+    .section7 h3 {
+        margin-top: -35px;
+        padding-top: 26px;
+        padding-bottom: 17px;
+    }
+
+    .tripToGreece-card .p1 {
+        font-size: 14px;
+        margin-top: -16px;
+    }
+
+    .tripToGreece-card a {
+        margin-top: -4px;
+    }
+
+    .tripToGreece-card .heartImg {
+        margin-left: 86px;
+    }
+
+    .cardFooter p {
+        font-size: 13px;
+    }
+
+    .tripToRome-card {
+        margin-left: 200px;
+    }
+
+    .tripToRome-card {
+        width: 152px;
+        height: 75px;
+        margin-top: -110px;
+    }
+
+    .tripToRome-card img {
+        width: 30px;
+        height: 30px;
+        margin-top: -8px;
+    }
+
+    .tripToRome-card .p1 {
+        margin-top: -10px;
+    }
+
+    .tripToRome-card .p2 {
+        margin-bottom: -4px;
+        margin-top: -3px;
+    }
+
+    .tripToRome-card .p3 {
+        margin-top: 7px;
+        margin-bottom: 11px;
+    }
+
+    /*section 8*/
+    .subscrip_background .bg_image {
+        margin-left: 48px;
+        width: 364px;
+        height: 148px;
+        margin-top: 30px;
+    }
+
+    .subscrip_background .bg_image p {
+        padding-top: 22px;
+        font-size: 13px;
+        line-height: 1.4;
+    }
+
+    .email_section {
+        width: 328px;
+        height: 21px;
+    }
+
+    .email_section .form-control {
+        font-size: 12px;
+    }
+
+    .discoverBotton {
+        margin-right: 17px;
+        font-size: 12px;
+    }
+
+    /*footer section*/
+    .infoDiv {
+        margin-left: 17px;
+        margin-top: 22px;
+        width: 102px;
+        margin-right: 6px;
+    }
+}
+
+@media all and (max-width: 320px) {
+
+    /*section 1*/
+    .landingContant h2 {
+        height: 50px;
+        font-size: 32px;
+    }
+
+    .landingContant p {
+        font-size: 8px;
+    }
+
+    .star_profile img:nth-child(1) {
+        margin-right: 18px;
+    }
+
+    /*section 2*/
+    .serviceMargin h3 {
+        font-size: 34px;
+    }
+
+    .serviceMargin {
+        margin-bottom: -12px;
+    }
+
+    /*section 3*/
+    .section3Heading h3 {
+        font-size: 25px;
+    }
+
+    .section3Heading p {
+        font-size: 9px;
+    }
+
+    .bestService {
+        width: 125px;
+        height: 141px;
+        margin-bottom: 22px;
+        margin-left: -1px;
+        margin-right: -5px;
+    }
+
+    /*section 4*/
+    .section4Heading {
+        font-size: 23px;
+    }
+
+    .section4Card {
+        width: 100%;
+        margin-left: 0px;
+    }
+
+    .destinationCard .card-img img {
+        width: 86px;
+    }
+
+    .ctl {
+        margin: 27px 95px 13px 61px;
+        text-align: start;
+    }
+
+    .distination_card_text_center .card-title span {
+        font-size: 12px;
+    }
+
+    .distination_card_text_center .card-text span {
+        font-size: 12px;
+    }
+
+    .ctex {
+        margin: -53px -72px 0px 41px;
+        line-height: 1.0;
+    }
+
+    .cbtn {
+        margin: -44px 0px 0px 118px;
+    }
+
+    /*section 5*/
+    .section5 h3 {
+        font-size: 23px;
+        padding-top: 28px;
+    }
+
+    .packageCard {
+        width: 296px;
+        height: 375px;
+    }
+
+    .cardSize .headerImg {
+        height: 234px;
+    }
+
+    .packageIndonesia_P {
+        font-size: 11px;
+    }
+
+    .packageCard .cart-text {
+        font-size: 13px;
+    }
+
+    .packageIndonesia_h5 p {
+        font-size: 14px;
+    }
+
+
+    /*section 6*/
+    .book_trip h3 {
+        font-size: 17px;
+        margin-top: -23px;
+    }
+
+    .book_trip_option .p1 {
+        font-size: 12px;
+        line-height: 82.5%;
+        margin-top: 7px;
+    }
+
+    .book_trip_option .p2 {
+        font-size: 9px;
+    }
+
+    .tripToGreece-card {
+        width: 234px;
+        height: 261px;
+    }
+
+    .tripToGreece_backgroundImg {
+        margin-top: -29px;
+        width: 182px;
+        height: 261px;
+        margin-left: 83px;
+    }
+
+    .tripToGreece-card .p1 {
+        font-size: 12px;
+    }
+
+    .tripToGreece-card .p2 {
+        font-size: 11px;
+    }
+
+    .tripToGreece-card a {
+        margin-right: 21px;
+        margin-bottom: 24px;
+    }
+
+    .cardFooter p {
+        font-size: 10px;
+    }
+
+    .tripToRome-card {
+        width: 127px;
+        margin-left: 176px;
+        margin-top: -114px;
+        height: 63px;
+    }
+
+    .tripToRome-card img {
+        width: 30px;
+        height: 30px;
+        margin-top: -8px;
+        margin-left: -8px;
+        margin-right: 7px;
+    }
+
+    .tripToRome-card .p1 {
+        font-size: 10px;
+    }
+
+    .tripToRome-card .p2 {
+        margin-bottom: -7px;
+        margin-top: -6px;
+    }
+
+    .tripToRome-card .p2 {
+        font-size: 11px;
+    }
+
+    /*section 7*/
+    .section7 h3 {
+        font-size: 36px;
+    }
+
+    /*section 8*/
+    .subscrip_background .bg_image {
+        margin-left: 54px;
+        width: 302px;
+        height: 122px;
+        margin-top: 30px;
+    }
+
+    .subscrip_background .bg_image p {
+        font-size: 11px;
+        margin-right: 10px;
+    }
+
+    .email_section {
+        width: 260px;
+        height: 16px;
+    }
+
+    .email_section button {
+        margin-left: 7px;
+    }
+
+    .email_section .form-control {
+        font-size: 10px;
+        margin-left: 10px;
+    }
+
+    .email_section button {
+        margin: -1px 5px -2px 9px;
+    }
+
+    /*footer section*/
+    .infoDiv {
+        margin-right: -20px;
+    }
+}
+
+@media all and (max-width: 260px) {
+
+    /*section 1*/
+    .section1 .navbar-brand img {
+        margin-left: -120px;
+    }
+
+    .navbar-toggler {
+        margin-left: 43px;
+        margin-top: -70px;
+    }
+
+    .navbar-collapse {
+        margin-left: -129px;
+    }
+
+    .landingContant h2 {
+        font-size: 26px;
+        margin-top: 129px;
+    }
+
+    .landingContant p {
+        font-size: 6px;
+    }
+
+    /*section 2*/
+    .serviceMargin h3 {
+        font-size: 28px;
+    }
+
+    .serviceCard p {
+        font-size: 10px;
+    }
+
+    .serviceCard {
+        margin-left: 16px;
+        width: 245px;
+        margin-top: 12px;
+    }
+
+    /*section 3*/
+    .section3Heading h3 {
+        font-size: 19px;
+    }
+
+    .section3Heading p {
+        font-size: 7px;
+    }
+
+    .bestService {
+        width: 98px;
+        height: 112px;
+        margin-bottom: 22px;
+        margin-left: -1px;
+        margin-right: -5px;
+    }
+
+    .bestService .card-body h2 {
+        font-size: 17px;
+        margin-top: -10px;
+    }
+
+    .bestService .card-body p {
+        font-size: 7px;
+    }
+
+    .bestService .card-body p {
+        font-size: 9px;
+    }
+
+    /*section 4*/
+    .section4Heading {
+        font-size: 19px;
+    }
+
+    .worldImaage img {
+        width: 89%;
+    }
+
+    .section4Card {
+        width: 97%;
+        margin-left: 2px;
+        height: 69px;
+    }
+
+    .worldImaage {
+        margin: 0 auto;
+        width: 260px;
+        height: 285px;
+        margin-left: -12px;
+    }
+
+    .locationObject {
+        margin: 302px 0px 0px -238px;
+    }
+    .destinationCard .card-img img {
+        width: 69px;
+    }
+    .distination_card_text_center .card-title span {
+        font-size: 10px;
+    }
+    .distination_card_text_center .card-text span {
+        font-size: 10px;
+    }
+    .ctex {
+        margin: -56px -52px 0px 41px;
+    }
+    .ctl {
+        margin: 17px 83px 14px 61px;
+    }
+    .cbtn {
+        margin: -47px 0px 0px 93px;
+    }
+    
+    /*section 5*/
+    .section5 h3 {
+        font-size: 21px;
+    }
+
+
+    /*section 6*/
+    .tripToGreece_backgroundImg {
+        /* margin-top: -29px; */
+        /* width: 182px; */
+        /* height: 261px; */
+        margin-left: 70px;
+    }
+
+    .packageCard {
+        width: 277px;
+        height: 369px;
+    }
+
+    .packageCard .cart-text {
+        font-size: 12px;
+    }
+
+    .packageIndonesia_h5 {
+        margin-top: 26px;
+    }
+
+    .tripToGreece-card {
+        width: 173px;
+        height: 199px;
+        margin-left: 27px;
+    }
+
+    .tripToGreece-card .p1 {
+        font-size: 9px;
+    }
+
+    .tripToRome-card .p2 {
+        font-size: 8px;
+    }
+
+    .tripToRome-card .p3 span {
+        font-size: 1px;
+    }
+
+    .tripToRome-card .p3 {
+        margin-top: 11px;
+        margin-bottom: 8px;
+    }
+
+    .tripToRome-card .p3 {
+        font-size: 10px;
+    }
+
+    .tripToGreece-card a {
+        margin-right: 11px;
+        margin-bottom: 3px;
+        margin-top: -16px;
+    }
+
+    .tripToGreece-card .heartImg {
+        margin-left: 77px;
+    }
+
+    .cardFooter p {
+        font-size: 5px;
+    }
+
+    .book_trip_option .p1 {
+        margin-top: -2px;
+        line-height: 1.02;
+    }
+
+    .tripToRome-card {
+        width: 127px;
+        margin-left: 114px;
+        margin-top: -99px;
+        height: 63px;
+    }
+
+    .book_trip h3 {
+        font-size: 14px;
+        margin-top: -23px;
+    }
+
+    .bookTrip-margin {
+        margin: -3px 0px 0px -16px;
+    }
+
+
+    /*sectioin 7*/
+    .section7 h3 {
+        font-size: 18px;
+    }
+
+    /*section 8*/
+    .subscrip_background .bg_image {
+        width: 280px;
+        height: 116px;
+    }
+
+    .subscrip_background .bg_image {
+        width: 244px;
+    }
+
+    .email_section {
+        width: 195px;
+        /* height: 16px; */
+    }
+
+    .email_section .form-control {
+        /* font-size: 10px; */
+        margin-left: -8px;
+    }
+
+    .email_section button {
+        padding: 1px 7px 0px 7px;
+        font-size: 10px;
+    }
+
+    .subscrip_background .bg_image p {
+        font-size: 9px;
+        /* margin-right: 10px; */
+        margin-bottom: 10px;
+    }
+
+    .infoDiv {
+        margin-right: -20px;
+        margin-left: -1px;
+    }
+
+    /*footer section*/
+    .infoDiv {
+        margin-right: -23px;
+    }
+
+    .firstDiv img {
+        width: 72px;
+        height: 54px;
+    }
+}
